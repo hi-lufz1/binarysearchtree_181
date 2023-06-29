@@ -16,3 +16,10 @@ public:
 		rightchild = r;
 	}
 };
+
+class BinaryTree
+{
+public:
+	Node* ROOT;
+	Binary Tree()
+	{
