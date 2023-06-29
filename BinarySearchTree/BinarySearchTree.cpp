@@ -102,6 +102,9 @@ public:
 		// performs the post order traversal of the tree
 		if (ROOT == NULL)
 		{
-		
+			cout << "Tree is empty" << endl;
+			return;
 		}
+
+	}
 };
