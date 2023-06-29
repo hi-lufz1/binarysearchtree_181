@@ -97,6 +97,11 @@ public:
 			preorder(ptr->rightchild);
 		}
 	}
-
-
+	void postorder(Node* ptr)
+	{
+		// performs the post order traversal of the tree
+		if (ROOT == NULL)
+		{
+		
+		}
 };
